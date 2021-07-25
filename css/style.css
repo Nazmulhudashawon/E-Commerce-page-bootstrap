@@ -2,6 +2,18 @@
     background-color: #ff136f;
     color: white;
     border: 0;
-    padding: 10px 20px 10px 20px;
+    padding: 5px 20px 5px 20px;
     border-radius: 5px;
+}
+img{
+    padding: 20px;
+}
+img:hover{
+    transform: scalex(1.2) scaleY(1.1);
+}
+.navbar-brand img{
+padding: 0;
+}
+.form-control{
+    width: 400px;
 }
